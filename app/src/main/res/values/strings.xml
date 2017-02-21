@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rappi</string>
+
+    <string name="cargando">Cargando...</string>
+    <string name="title_activity_detail_tema">DetailTema</string>
+    <string name="nore_info">more info</string>
+    <string name="salir">Salir</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="share">share</string>
+    <string name="prueba">Prueba técnica</string>
+    <string name="por">Presentada por:</string>
+    <string name="nombre">Fabián Mondragón</string>
+    <string name="mail">mondra10@gmail.com</string>
+    <string name="anio">2017</string>
+    <string name= "WELCOME">WELCOME</string>
+    <string name= "mensaje">Hoy es un día para apreder algo nuevo :)></string>
+    <string name = "login"> Por favor ingresar tu usuario</string>
+    <string name = "password"> tu contraseña</string>
+    <string name = "correo"> tu correo</string>
+    <string name = "login_string">Login</string>
+    <string name = "no_registrado">Aún no estas registrado</string>
+    <string name = "registrate"> Registrate </string>
+
+
+
+</resources>
